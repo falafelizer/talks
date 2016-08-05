@@ -9,5 +9,5 @@ Golang
 ------
 
 * [GopherCon 2016 Recap: GoTrace](http://go-talks.appspot.com/github.com/falafelizer/talks/tree/master/go/3_gotrace/gotrace.slide)
-* [Go beyond PowerPoint with Present!](https://github.com/falafelizer/talks/blob/master/go/2_present/go-present.slide)
-* [Gomobile: Unifying go code](github.com/falafelizer/talks/blob/master/go/1_gomobile/slides.slide)
+* [Go beyond PowerPoint with Present!](http://go-talks.appspot.com/github.com/falafelizer/talks/blob/master/go/2_present/go-present.slide)
+* [Gomobile: Unifying go code](http://go-talks.appspot.com/github.com/falafelizer/talks/blob/master/go/1_gomobile/slides.slide)
